@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a96a476-0c10-44d3-81e1-c9ce5dec62d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xrHHM8kzsAHbPxoYSJKHes9cQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\pytorch-vqvae-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vae">
+    <configuration name="自定义函数求导" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-vqvae-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\pytorch-vqvae-master\自定义函数求导.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vae" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-vqvae-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vqvae" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-vqvae-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vqvae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vae" />
+        <item itemvalue="Python.vqvae" />
+        <item itemvalue="Python.自定义函数求导" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a96a476-0c10-44d3-81e1-c9ce5dec62d4" name="Default Changelist" comment="" />
+      <created>1631106197490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631106197490</updated>
+      <workItem from="1631106198724" duration="11426000" />
+      <workItem from="1631242503203" duration="16424000" />
+      <workItem from="1631692218614" duration="779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="226" y="2" key="#Deployment" timestamp="1631190104789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="226" y="2" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1631190104789" />
+    <state x="398" y="21" key="#xdebugger.evaluate" timestamp="1631267415209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="21" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1631267415209" />
+    <state width="1087" height="438" key="DebuggerActiveHint" timestamp="1631317509006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1087" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1631317509006" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1631317946280">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1631317946280" />
+    <state width="1237" height="117" key="GridCell.Tab.0.bottom" timestamp="1631692383678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="117" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631692383678" />
+    <state width="1237" height="117" key="GridCell.Tab.0.center" timestamp="1631692383678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="117" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631692383678" />
+    <state width="1237" height="117" key="GridCell.Tab.0.left" timestamp="1631692383678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="117" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631692383678" />
+    <state width="1237" height="117" key="GridCell.Tab.0.right" timestamp="1631692383678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="117" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631692383678" />
+    <state width="1237" height="159" key="GridCell.Tab.1.bottom" timestamp="1631317948888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631317948888" />
+    <state width="1237" height="159" key="GridCell.Tab.1.center" timestamp="1631317948888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631317948888" />
+    <state width="1237" height="159" key="GridCell.Tab.1.left" timestamp="1631317948888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631317948888" />
+    <state width="1237" height="159" key="GridCell.Tab.1.right" timestamp="1631317948888">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="159" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631317948888" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1631267410874">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1631267410874" />
+    <state x="324" y="95" width="617" height="490" key="find.popup" timestamp="1631274226373">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="324" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1631274226373" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vae.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vqvae.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vqvae.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="train_loader" />
+        <watch expression="[self.dataset[idx] for idx in possibly_batched_index]" />
+        <watch expression="args" />
+        <watch expression="classname.find('Conv') " />
+        <watch expression="z_e_x" />
+        <watch expression=" self.embedding.weight.detach()" />
+        <watch expression=" torch.addmm(codebook_sqr + inputs_sqr,&#10;                inputs_flatten, codebook.t(), alpha=-2.0, beta=1.0)" />
+        <watch expression="z_q_x, z_q_x_bar" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_vqvae_master$vqvae.coverage" NAME="vqvae Coverage Results" MODIFIED="1631274677063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_vqvae_master$11.coverage" NAME="11 Coverage Results" MODIFIED="1631244698175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pytorch_vqvae_master$vae.coverage" NAME="vae Coverage Results" MODIFIED="1631692232378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
